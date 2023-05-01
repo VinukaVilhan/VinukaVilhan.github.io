@@ -1,0 +1,63 @@
+#navigation{
+    margin-bottom:em;
+}
+
+#img_container{
+    margin-top:8rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.content_head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 2em 0em 0em 2em;
+}
+
+.content_body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 0.5em 2.0em 0em 2em;
+    font-size:1.3em;
+}
+
+#carousel_space{display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:2em;
+}
+
+.carousel {
+    width: 40em;
+}
+
+#quote{
+    margin-top:3rem;
+}
+
+.feedback{
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.button{
+    padding-left:30px;
+    padding-bottom:30px;
+}
+
+#learnmorecards{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    padding:2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
